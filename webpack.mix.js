@@ -1,6 +1,6 @@
 const mix = require('laravel-mix');
 Mix.manifest.refresh = _ => void 0
-const devUrl = 'formality.local';
+const devUrl = 'drlambeth.lambethmedia.xyz';
 require('laravel-mix-copy-watched');
 require('laravel-mix-banner');
 
